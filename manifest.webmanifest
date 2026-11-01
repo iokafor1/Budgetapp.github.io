@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Daymark Personal Finance",
+  "short_name": "Daymark",
+  "description": "Track spending, budgets, net worth and weekly money reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
